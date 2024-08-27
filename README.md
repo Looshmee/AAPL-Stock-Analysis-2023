@@ -8,8 +8,6 @@ Analysis of Apple Inc.'s stock performance in 2023 using Python and Power BI.
 - [Power BI Dashboard](#power-bi-dashboard)
 - [How to Use](#how-to-use)
 - [Key Insights](#key-insights)
-- [Future Work](#future-work)
-- [Contact](#contact)
 
 ## Overview
 This project demonstrates the analysis of Apple's stock performance throughout 2023. The analysis includes data extraction using Python, processing, and visualization using Power BI. The project is designed to showcase my ability to work with financial data and create insightful dashboards.
