@@ -26,7 +26,7 @@ The `script.py` file contains the Python code used to fetch and preprocess the d
 The `Dashboard.pbix` file is the Power BI report that visualizes the data. The dashboard includes:
 
 - A line chart showing the trend of Apple's closing prices over 2023.
-- A bar chart illustrating the volume traded over the same period.
+- An area chart illustrating the volume traded over the same period.
 - Cards displaying the highest and lowest closing prices with their respective dates.
 - A date slicer for interactive filtering.
 
